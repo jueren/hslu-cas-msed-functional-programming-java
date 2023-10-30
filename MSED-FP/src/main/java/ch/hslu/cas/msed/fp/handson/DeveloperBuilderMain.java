@@ -6,6 +6,13 @@ public class DeveloperBuilderMain
 {
     public static void main(String[] args)
     {
+        /*
+        * Excercise / Todo:
+            Developer-Klasse erweitern:
+            Neue Developer-Felder: Salary, #Cups of Coffee per Day
+            Berechnung von Average Salary und Total Cups of Coffee
+        */
+
         // 2) Stream-API
         List<Developer> developers = List.of(new Developer("Dan", "Stravinski", "dan@google.com"),
                 new Developer("Samantha", "Jones", "sj@dev.to"),
