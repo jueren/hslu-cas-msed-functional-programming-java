@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="127decb6-f617-4eb6-b107-926c11f0d7f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSED-FP/src/main/java/ch/hslu/cas/msed/fp/handson/DeveloperBuilderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/MSED-FP/src/main/java/ch/hslu/cas/msed/fp/handson/DeveloperBuilderMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
       <workItem from="1698694428359" duration="1833000" />
       <workItem from="1698696278897" duration="177000" />
       <workItem from="1698698105392" duration="2979000" />
-      <workItem from="1698936341817" duration="894000" />
+      <workItem from="1698936341817" duration="912000" />
     </task>
     <servers />
   </component>
