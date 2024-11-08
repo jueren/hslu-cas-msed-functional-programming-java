@@ -32,7 +32,7 @@ public class DeveloperBuilderMain
 
         /* Solution:
         Developer dev = developers.stream().filter(x -> x.Firstname.equals("Dan")).findFirst().get();
-        System.out.println(dev.Firstname + " " + dev.Lastname + " " + dev.Email);*/
+        System.out.println(dev.Firstname + " " + dev.Lastname + " " + dev.Email); */
 
         // 3) Fluent API, DSLs, ...
         // Todo: Rewrite the creation of the developer list using the Developer Builder Class
