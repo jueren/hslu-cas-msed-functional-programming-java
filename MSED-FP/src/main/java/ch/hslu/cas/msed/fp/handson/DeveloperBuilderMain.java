@@ -7,7 +7,7 @@ public class DeveloperBuilderMain
     public static void main(String[] args)
     {
         /*
-        * 1) Excercise / Todo:
+        1) Excercise / Todo:
             Developer-Klasse erweitern:
             Neue Developer-Felder: Salary, #Cups of Coffee per Day
             Berechnung von Average Salary und Total Cups of Coffee
